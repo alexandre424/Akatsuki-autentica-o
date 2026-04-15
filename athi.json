@@ -1,5 +1,9 @@
 {
-  "Base": {
-    "lt": ["lic-lt-ATH-SUPREMOSHOP031"]
+  "licenses": {
+    "lt": [
+      "lic-lt-ATH-SUPREMOSHOP031"
+    ],
+    "30d": [],
+    "7d": []
   }
 }
