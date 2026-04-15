@@ -1,3 +1,6 @@
 {
-  "license": "lic-lt-ATH-AKATSUKISHOP-MADARADEV"
+  "Base": {
+    "lt": ["lic-lt-ATH-AKATSUKISHOP-MADARADEV"],
+    "30d": ["lic-30d-OUTRA123"]
+  }
 }
