@@ -1,6 +1,6 @@
 {
   "clients": [
-    { "key": "lic-lt-ATH-SUPREMOSHOP031",  "ip": "177.55.181.203", "expires": "2026-04-14",   "name": "xandao gamer" },
+    { "key": "lic-lt-ATH-MADARADEVCEO",  "ip": "177.55.181.203", "expires": "2026-04-14",   "name": "xandao gamer" },
     { "key": "lic-30d-ATH-CLIENTE002",     "ip": "189.50.33.11", "expires": "2025-06-15", "name": "CLIENTE002"  },
     { "key": "lic-7d-ATH-CLIENTE003",      "ip": "200.10.55.99", "expires": "2025-04-22", "name": "CLIENTE003"  }
   ]
