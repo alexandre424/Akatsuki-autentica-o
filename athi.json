@@ -1,6 +1,6 @@
 {
   "clients": [
-    { "key": "lic-lt-ATH-MADARADEVCEO2026",  "ip": "177.55.181.93", "expires": "lifetime",   "name": "xandao gamer" },
+    { "key": "lic-lt-ATH-MADARADEVCEO2026",  "ip": "177.55.179.252", "expires": "lifetime",   "name": "xandao gamer" },
     { "key": "lic-lt-ATH-ELLIOT020410AA",  "ip": "82.24.40.78", "expires": "lifetime",   "name": "elliot #825524937338257438" },
     { "key": "lic-30d-ATH-CLIENTE002",     "ip": "189.50.33.11", "expires": "2025-06-15", "name": "CLIENTE002"  },
     { "key": "lic-7d-ATH-CLIENTE003",      "ip": "200.10.55.99", "expires": "2025-04-22", "name": "CLIENTE003"  }
